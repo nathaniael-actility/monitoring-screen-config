@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": true,
+  "autoStart": true,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": true,
+  "websites": [
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/1?kiosk=tv",
+      "duration": 8,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://app.datacake.de/dashboard/d/f17379e4-134e-409b-bdee-b9d42c076b7b",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
