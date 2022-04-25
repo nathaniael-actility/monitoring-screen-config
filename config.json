@@ -7,7 +7,7 @@
   "websites": [
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/1?kiosk=tv",
-      "duration": 8,
+      "duration": 180,
       "tabReloadIntervalSeconds": 0
     },
     {
