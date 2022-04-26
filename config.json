@@ -6,8 +6,18 @@
   "closeExistingTabs": true,
   "websites": [
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/1?kiosk=tv",
-      "duration": 180,
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/tpxdev/dev-tpx-flow-iot?orgId=1&refresh=10s&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/9OZlwbw7k/showroom-locaux-actility?orgId=1&refresh=10s&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/jSO35wUnz/showroom-temperature-sensors?orgId=1&refresh=10s&kiosk",
+      "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
     {
