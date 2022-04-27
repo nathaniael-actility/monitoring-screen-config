@@ -1,0 +1,19 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://google.fr",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://youtube.com",
+      "duration": 3,
+      "tabReloadIntervalSeconds": 0
+    }
+  ]
+}
