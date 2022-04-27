@@ -24,6 +24,57 @@
       "url": "https://app.datacake.de/dashboard/d/f17379e4-134e-409b-bdee-b9d42c076b7b",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    }
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/e8133LQ7k/showroom-openspace-1?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/lKaZlYQnk/showroom-openspace-2?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/jr4J6YQ7z/showroom-openspace-3?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/gxbF9swnz/micro-tracker-abeeway?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/etrWyswnk/bob-eolane?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/Vo2ijsQ7k/nke-watteco?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    //
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/x2BhCyQnz/sushi-yokagawa?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/lYV03yw7k/l868-zenner?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/LuqBeyQnz/adeunis-pulse?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-ers?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    },
   ]
 }
