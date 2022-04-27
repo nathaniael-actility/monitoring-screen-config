@@ -55,7 +55,6 @@
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     },
-    //
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/x2BhCyQnz/sushi-yokagawa?orgId=1&kiosk",
       "duration": 60,
@@ -75,6 +74,6 @@
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-ers?orgId=1&kiosk",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    },
+    }
   ]
 }
