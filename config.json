@@ -36,7 +36,7 @@
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-generic-1?orgId=1&kiosk&autofitpanels",
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-generic-1?orgId=1&kiosk&autofitpanels&refresh=10s",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     }
