@@ -16,11 +16,6 @@
       "tabReloadIntervalSeconds": 0
     },
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/jSO35wUnz/showroom-temperature-sensors?orgId=1&refresh=10s&kiosk",
-      "duration": 60,
-      "tabReloadIntervalSeconds": 0
-    },
-    {
       "url": "https://app.datacake.de/dashboard/d/f17379e4-134e-409b-bdee-b9d42c076b7b",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
@@ -37,6 +32,11 @@
     },
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/jr4J6YQ7z/showroom-openspace-3?orgId=1&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 0
+    };
+    {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-generic-1?orgId=1&kiosk",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
     }
