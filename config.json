@@ -34,7 +34,7 @@
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/jr4J6YQ7z/showroom-openspace-3?orgId=1&kiosk",
       "duration": 60,
       "tabReloadIntervalSeconds": 0
-    };
+    },
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/PHeKXswnz/elsys-generic-1?orgId=1&kiosk",
       "duration": 60,
