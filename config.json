@@ -15,14 +15,20 @@
       "tabReloadIntervalSeconds": 900
     },
     {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/2?kiosk&autofitpanels&refresh=10s",
+      "duration": 90,
+      "tabReloadIntervalSeconds": 900
+    },
+    {
       "url": "https://app.datacake.de/dashboard/d/f17379e4-134e-409b-bdee-b9d42c076b7b",
       "duration": 60,
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/2?kiosk&autofitpanels&refresh=10s",
-      "duration": 90,
+      "url": "https://app.datacake.de/dashboard/d/54a02755-4810-4ed0-a927-0136e090f179",
+      "duration": 60,
       "tabReloadIntervalSeconds": 900
-    }
+    },
+
   ]
 }
