@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/9OZlwbw7k/showroom-locaux-actility?orgId=1&refresh=10s&kiosk",
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/_hHYpO_nz/test?orgId=1&refresh=10s&kiosk",
       "duration": 60,
       "tabReloadIntervalSeconds": 900
     },
