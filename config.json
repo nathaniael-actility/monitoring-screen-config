@@ -20,6 +20,11 @@
       "tabReloadIntervalSeconds": 900
     },
     {
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/gpuHww_7z/tomato-plant?orgId=1&refresh=10s&from=now-12h&to=now&kiosk",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 900
+    },
+    {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/playlists/play/2?kiosk&autofitpanels&refresh=10s",
       "duration": 90,
       "tabReloadIntervalSeconds": 900
