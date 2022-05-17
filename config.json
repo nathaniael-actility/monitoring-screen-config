@@ -3,6 +3,7 @@
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
+  "closeExistingTabs": false,
   "websites": [
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/tpxdev/dev-tpx-flow-iot?orgId=1&refresh=10s&kiosk",
@@ -38,6 +39,11 @@
       "url": "https://app.datacake.de/dashboard/d/54a02755-4810-4ed0-a927-0136e090f179",
       "duration": 60,
       "tabReloadIntervalSeconds": 900
-    }
+    },
+    {
+      "url": "https://app.datacake.de/dashboard/d/84f8e046-cece-4e32-80c3-d0ae30036596",
+      "duration": 60,
+      "tabReloadIntervalSeconds": 900
+    },
   ]
 }
