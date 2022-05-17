@@ -3,7 +3,6 @@
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
-  "closeExistingTabs": false,
   "websites": [
     {
       "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/tpxdev/dev-tpx-flow-iot?orgId=1&refresh=10s&kiosk",
