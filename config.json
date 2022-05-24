@@ -10,7 +10,7 @@
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/dKKFju_nz/tpx-latency?orgId=1&refresh=5s&kiosk",
+      "url": "https://supervisor.preview.thingpark.com/iot-flow/grafana/d/dKKFju_nz/tpx-latency?orgId=1&refresh=5s&from=now-24h&to=now&kiosk",
       "duration": 60,
       "tabReloadIntervalSeconds": 900
     },
