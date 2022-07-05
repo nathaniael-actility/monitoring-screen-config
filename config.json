@@ -43,6 +43,11 @@
       "url": "https://app.datacake.de/dashboard/d/84f8e046-cece-4e32-80c3-d0ae30036596",
       "duration": 60,
       "tabReloadIntervalSeconds": 900
+    },
+    {
+      "url":"https://lorawanworldexpo2022.azureiotcentral.com/dashboards/dtmi%3Akkfvwa2xi%3Ap7pyt5x3o",
+      "duration":60,
+      "tabReloadIntervalSeconds":900
     }
   ]
 }
