@@ -45,7 +45,7 @@
       "tabReloadIntervalSeconds": 900
     },
     {
-      "url":"https://lorawanworldexpo2022.azureiotcentral.com/dashboards/dtmi%3Akkfvwa2xi%3Ap7pyt5x3o",
+      "url":"https://lwe2022-app.azurewebsites.net/api/index",
       "duration":60,
       "tabReloadIntervalSeconds":900
     },
