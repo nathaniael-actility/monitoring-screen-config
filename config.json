@@ -48,6 +48,12 @@
       "url":"https://lorawanworldexpo2022.azureiotcentral.com/dashboards/dtmi%3Akkfvwa2xi%3Ap7pyt5x3o",
       "duration":60,
       "tabReloadIntervalSeconds":900
+    },
+    {
+      "url":"https://www.kheiron-sp.io/dashboard/share?xToken=YXBwSWQ6OTAwO3NoSWQ6MjtzaFRva2VuOkI2VFEvQkRYZVlSSGJLOCtCMmZoeGc9PTtyZXNUeXBlOkdyb3VwO3Jlc0lkOjM=",
+      "duration":60,
+      "tabReloadIntervalSeconds":900
     }
+    
   ]
 }
