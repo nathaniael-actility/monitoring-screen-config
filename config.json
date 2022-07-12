@@ -48,12 +48,6 @@
       "url":"https://lwe2022-app.azurewebsites.net/api/index",
       "duration":60,
       "tabReloadIntervalSeconds":900
-    },
-    {
-      "url":"https://www.kheiron-sp.io/dashboard/share?xToken=YXBwSWQ6OTAwO3NoSWQ6MztzaFRva2VuOmR5UElVRDB5RmUrb3FyalBBMzF6Z3c9PTtyZXNUeXBlOkdyb3VwO3Jlc0lkOjE=",
-      "duration":60,
-      "tabReloadIntervalSeconds":900
-    }
-    
+    }    
   ]
 }
